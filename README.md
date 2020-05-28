@@ -3,8 +3,8 @@
 | Flood fill Algorithm | Algorithm to fill the surrounding space in a bounded area given by a node | C#/.NET | Backlog | N/A |
 | Sorting Algorithms | Various Algorithms used to sort a dataset with differing efficiency | C#/.NET | Backlog | N/A |
 | Question Set SPA | Algorithm to fill the surrounding space in a bounded area given by a node | Angular | Backlog | N/A |
-| Searching Algorithms | Various Algorithms used to search a dataset with differing efficiency | C#/.NET | Backlog | N/A |
-| Continuous Integration | A Template Pipeline written in code to automate and simplify Continuous Delivery | C#/.NET | In Progress | N/A |
+| Searching Algorithms | Various Algorithms used to search a dataset with differing efficiency | C#/.NET | Backlog | [Searching-Algorithms](https://github.com/Ashley-Gibson/Searching-Algorithms "Searching Algorithms") |
+| Continuous Integration | A Template Pipeline written in code to automate and simplify Continuous Delivery | C#/.NET | In Progress | [Continuous-Integration](https://github.com/Ashley-Gibson/Continuous-Integration "Continuous Integration") |
 | Stock Market Dashboard | A visual representation of Stock Markets | .NET Blazor | In Progress | [Stock-Market-Dashboard](https://github.com/Ashley-Gibson/Stock-Market-Dashboard "Stock Market Dashboard") |
 | Personal Website | Website built from scratch using flat HTML/CSS/JS (no CMS) | HTML/CSS/JS | In Progress | [Personal-Website](https://github.com/Ashley-Gibson/Personal-Website "Personal Website") |
 | Web Quiz | Web Application Quiz | C#/.NET Core | In Progress | [Web-Quiz](https://github.com/Ashley-Gibson/Web-Quiz "Web Quiz") |
