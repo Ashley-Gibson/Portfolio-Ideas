@@ -1,4 +1,4 @@
-| Idea | Description | Technology | Status |
+| Idea | Description | Tech Stack | Status |
 | :--: | ----------- | :--------: | :----: |
 | Flood fill Algorithm | Algorithm to fill the surrounding space in a bounded area given by a node | C#/.NET | ![Backlog](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/idea.png) |
 | Sorting Algorithms | Various Algorithms used to sort a dataset with differing efficiency | C#/.NET | ![Backlog](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/idea.png) |
