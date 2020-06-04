@@ -2,7 +2,7 @@
 | :--: | ----------- | :--------: | :----: |
 | Flood fill Algorithm | Algorithm to fill the surrounding space in a bounded area given by a node | C#/.NET | ![Backlog](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/idea.png) |
 | Sorting Algorithms | Various Algorithms used to sort a dataset with differing efficiency | C#/.NET | ![Backlog](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/idea.png) |
-| Question Set SPA | Algorithm to fill the surrounding space in a bounded area given by a node | Angular | ![Backlog](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/idea.png) |
+| Question Set SPA | Single Page Application built using Angular for a seemless Question Set experience | Angular | ![Backlog](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/idea.png) |
 | [Searching Algorithms](https://github.com/Ashley-Gibson/Searching-Algorithms "Searching Algorithms") | Various Algorithms used to search a dataset with differing efficiency | C#/.NET | ![Backlog](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/idea.png) |
 | [Continuous Integration](https://github.com/Ashley-Gibson/Continuous-Integration "Continuous Integration") | A Template Pipeline written in code to automate and simplify Continuous Delivery | C#/.NET | ![In Progress](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/workflow.png) |
 | [Stock Market Dashboard](https://github.com/Ashley-Gibson/Stock-Market-Dashboard "Stock Market Dashboard") | A visual representation of Stock Markets | .NET Blazor | ![In Progress](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/workflow.png) |
