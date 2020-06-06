@@ -23,3 +23,8 @@
 ![In Progress](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/workflow.png) In Progress Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 ![Complete](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/tick.png) Complete Icon made by <a href="https://www.flaticon.com/authors/kiranshastry" title="Kiranshastry">Kiranshastry</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
+### Portfolio Improvements
+[] Beautify all Projects (create an aesthetic frontend)
+[] Create GIFs for each Project to add to Personal Website
+[] Implement README Template across all Projects
