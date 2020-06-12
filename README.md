@@ -30,4 +30,4 @@
 - [ ] Beautify all Projects (create an aesthetic frontend)
 - [ ] Create GIFs for each Project to add to Personal Website
 - [ ] Implement README Template across all Projects
-- [ ] Flesh out detailed README for each Project
+- [X] Flesh out detailed [README Template](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/README%20Template.md "README Template") for each Project
