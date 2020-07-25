@@ -29,6 +29,7 @@
 ![Not Started](https://github.com/Ashley-Gibson/Portfolio-Ideas/blob/master/redcross.png) Not Started Icon made by <a href="https://www.flaticon.com/authors/xnimrodx" title="xnimrodx">xnimrodx</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 ### Portfolio Improvements
+- [ ] Deploy all projects to Netlify and link to Personal Website Portfolio page
 - [ ] Beautify all Projects (create an aesthetic frontend)
 - [ ] Create GIFs for each Project to add to Personal Website
 - [ ] Create an online demo for each Project
